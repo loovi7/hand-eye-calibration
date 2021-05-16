@@ -1,4 +1,0 @@
-﻿Source.obj : error LNK2005: main 已经在 main.obj 中定义
-main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl JoystickThread::JoystickThread(void)" (??0JoystickThread@@QEAA@XZ)，该符号在函数 main 中被引用
-main.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl JoystickThread::state_machine(struct joyinfoex_tag &,int)" (?state_machine@JoystickThread@@QEAAXAEAUjoyinfoex_tag@@H@Z)，该符号在函数 "public: void __cdecl <lambda_36add19924295bb773a3ac6a10c0f2dd>::operator()(void)const " (??R<lambda_36add19924295bb773a3ac6a10c0f2dd>@@QEBAXXZ) 中被引用
-D:\我的资料库\vs2017Projects\hand_eye1\x64\Debug\hand_eye1.exe : fatal error LNK1120: 2 个无法解析的外部命令
