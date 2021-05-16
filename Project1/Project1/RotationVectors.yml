@@ -1,0 +1,81 @@
+%YAML:1.0
+RotationVectors01: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.067643, -0.217423, -0.035459]
+RotationVectors02: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.033314, -0.142770, -0.231612]
+RotationVectors03: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.122749, -0.105486, -0.106654]
+RotationVectors04: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.084745, 0.240737, -0.201341]
+RotationVectors05: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.330704, 0.037124, 0.126739]
+RotationVectors06: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.121091, -0.295224, 0.214535]
+RotationVectors07: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.116192, -0.353759, 0.104151]
+RotationVectors08: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.182828, 0.036687, 0.261257]
+RotationVectors09: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.026412, 0.266309, -0.492133]
+RotationVectors10: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.036104, -0.071841, 0.185673]
+RotationVectors11: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.214129, 0.143706, 0.122817]
+RotationVectors12: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.127392, 0.050416, -0.404634]
+RotationVectors13: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.142026, 0.022189, -0.058779]
+RotationVectors14: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.134476, -0.446395, 0.280099]
+RotationVectors15: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.097154, 0.055224, 0.612294]
+RotationVectors16: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.114599, -0.065188, 0.274463]

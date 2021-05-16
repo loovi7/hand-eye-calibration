@@ -1,0 +1,81 @@
+%YAML:1.0
+TranslationVectors01: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -234.048107, -142.262555, 582.358311]
+TranslationVectors02: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -158.596184, -138.931296, 663.926180]
+TranslationVectors03: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 55.566998, -135.386337, 703.259938]
+TranslationVectors04: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 23.981188, -99.951663, 612.013663]
+TranslationVectors05: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -268.160270, -89.283941, 799.212319]
+TranslationVectors06: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -91.396907, -75.965775, 599.967173]
+TranslationVectors07: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -255.489898, 19.393134, 822.176079]
+TranslationVectors08: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -63.027606, -52.767366, 811.334463]
+TranslationVectors09: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -119.953251, 35.377134, 824.548119]
+TranslationVectors10: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -36.268958, -90.142275, 560.718757]
+TranslationVectors11: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 20.499829, -76.800882, 590.450342]
+TranslationVectors12: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -199.208178, -12.311000, 688.833208]
+TranslationVectors13: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -130.191979, -187.740715, 847.820577]
+TranslationVectors14: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -156.664446, -77.627921, 643.145481]
+TranslationVectors15: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 61.862361, -38.837803, 811.093624]
+TranslationVectors16: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -55.806236, -60.029427, 648.835867]

@@ -1,0 +1,16 @@
+﻿  Source.cpp
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\handeye.h(134): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\handeye.h(252): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\handeye.h(366): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\handeye.h(457): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\handeye.h(598): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\source.cpp(586): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\source.cpp(587): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\source.cpp(552): warning C4101: “TranslationVectors”: 未引用的局部变量
+d:\我的资料库\vs2017projects\手眼标定\project1\project1\source.cpp(551): warning C4101: “RotationVectors”: 未引用的局部变量
+  正在生成代码
+  1 of 459 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> D:\我的资料库\vs2017Projects\手眼标定\Project1\x64\Release\Project1.exe

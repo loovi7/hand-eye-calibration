@@ -1,0 +1,313 @@
+%YAML:1.0
+TranslationVectors01: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 276.580864, 168.244343, 1162.931060]
+TranslationVectors02: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 93.040346, 101.042748, 1151.176194]
+TranslationVectors03: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 222.571820, 0.553119, 1114.072409]
+TranslationVectors04: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 168.453387, 81.685460, 990.339236]
+TranslationVectors05: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 234.955258, 5.538712, 945.442745]
+TranslationVectors06: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 19.086171, 287.989318, 1085.210848]
+TranslationVectors07: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 49.009345, 195.762731, 935.855732]
+TranslationVectors08: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -39.814819, 139.863069, 1102.779018]
+TranslationVectors09: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 182.878845, 111.527253, 902.255323]
+TranslationVectors10: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 1.099579, 184.124752, 1154.770042]
+TranslationVectors11: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 122.941388, 93.097104, 1296.024653]
+TranslationVectors12: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -3.916911, 31.687285, 1274.498082]
+TranslationVectors13: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 7.704363, 221.042723, 1012.188813]
+TranslationVectors14: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 268.184220, -15.915909, 1002.459838]
+TranslationVectors15: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 62.075717, 132.026096, 1019.310679]
+TranslationVectors16: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 172.522381, -23.645526, 1034.994347]
+TranslationVectors17: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 158.515436, 306.705700, 1100.020686]
+TranslationVectors18: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 240.164495, 78.883251, 1177.802585]
+TranslationVectors19: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 144.463970, 70.050658, 1125.499269]
+TranslationVectors20: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 95.541854, 42.111889, 1104.061617]
+TranslationVectors21: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 54.638502, 146.553069, 989.434475]
+TranslationVectors22: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 2.249553, 243.642259, 1066.961770]
+TranslationVectors23: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 110.046264, 165.663476, 931.754755]
+TranslationVectors24: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 235.415707, 63.345193, 855.385514]
+TranslationVectors25: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -19.530784, 224.207418, 927.678967]
+TranslationVectors26: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 280.690937, 12.404620, 1046.004839]
+TranslationVectors27: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 3.587156, 256.170551, 1074.588218]
+TranslationVectors28: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 76.552245, 113.947550, 940.519836]
+TranslationVectors29: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 52.293518, 150.115686, 888.337565]
+TranslationVectors30: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 226.153793, 99.349022, 1022.035129]
+RotationVectors01: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.394148, 0.101851, 2.998159]
+RotationVectors02: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.661537, 0.074728, 2.981379]
+RotationVectors03: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.556209, -0.041912, 2.979231]
+RotationVectors04: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.336408, 0.243181, 2.644516]
+RotationVectors05: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.294488, 0.207359, 2.593648]
+RotationVectors06: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.519867, -0.109786, -2.511856]
+RotationVectors07: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.706528, -0.185378, -2.644939]
+RotationVectors08: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 1.170450, -0.307226, -2.827648]
+RotationVectors09: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.620631, 0.483197, 2.848651]
+RotationVectors10: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.856258, -0.135803, -2.765221]
+RotationVectors11: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.819948, 0.106973, 2.915021]
+RotationVectors12: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.861040, 0.272517, 2.667742]
+RotationVectors13: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.910333, -0.078690, -2.492840]
+RotationVectors14: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.075433, 0.217805, 2.792767]
+RotationVectors15: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.440566, -0.320766, -2.636634]
+RotationVectors16: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.463191, 0.258222, 2.571309]
+RotationVectors17: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.349758, -0.164754, -2.840040]
+RotationVectors18: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.098651, 0.296650, 2.372726]
+RotationVectors19: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.589209, 0.062728, -3.083362]
+RotationVectors20: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.615512, 0.351283, 2.530823]
+RotationVectors21: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.487567, -0.321515, -2.580691]
+RotationVectors22: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.832008, -0.332271, -2.770493]
+RotationVectors23: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.479066, -0.382028, -2.704361]
+RotationVectors24: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.305825, 0.595215, 2.620971]
+RotationVectors25: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.823110, -0.194955, -2.269922]
+RotationVectors26: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.381660, -0.036380, 2.978113]
+RotationVectors27: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.783275, -0.036428, -2.430309]
+RotationVectors28: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.643910, 0.311688, 2.685209]
+RotationVectors29: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 0.622841, -0.356116, -2.679342]
+RotationVectors30: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ -0.383461, 0.440227, 2.747470]
+Distortion: !!opencv-matrix
+   rows: 4
+   cols: 1
+   dt: f
+   data: [ 0.027213, 0.469256, 0.000000, 0.000000]
+IntrinsicMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: f
+   data: [ 615.394133, 0.000000, 331.088895,
+        0.000000, 615.046162, 237.535843,
+        0.000000, 0.000000, 1.000000]
